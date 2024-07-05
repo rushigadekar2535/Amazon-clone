@@ -28,8 +28,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/rushigadekar2535/Amazon-clone.git
-    2.Navigate to the project directory:
-    cd Amazon-clone
+2.Navigate to the project directory:
+   cd Amazon-clone
 
 Usage
 Once the project is set up, you can navigate through the various sections of the cloned Amazon homepage. The project is static and built purely with HTML and CSS, so there is no backend functionality.
@@ -56,7 +56,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Feel free to reach out if you have any questions or suggestions!
 
-csharp
-Copy code
 
-You can copy and paste this code into a `README.md` file in your project repo
